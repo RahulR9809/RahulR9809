@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul R</h1>
 <h3 align="center">🚀 Mobile App Developer | Flutter Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif">
+<img align="center" alt="coding" width="400" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulR9809&label=Profile%20views&color=0e75b6&style=flat" alt="RahulR9809" /> </p>
