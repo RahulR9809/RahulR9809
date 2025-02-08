@@ -21,7 +21,7 @@
 
 🚀 Mobile App Developer | Flutter Enthusiast | Dart, HTML, CSS
 
-👋 Hi there! I'm Hari Prasad, a passionate mobile application developer with expertise in Flutter.
+👋 Hi there! I'm Rahul R, a passionate mobile application developer with expertise in Flutter.
   I love crafting beautiful and functional apps that deliver seamless user experiences.
   My skill set includes Dart, HTML, CSS, and of course, Flutter, which I leverage to create cross-platform applications for Android and iOS.
 
