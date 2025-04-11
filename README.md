@@ -38,7 +38,7 @@ RESTful API Integration
 📫 Reach me:
 
 Email:rahuldev9809@gmail.com
-LinkedIn:https://linkedin.com/in/Rahul R
+LinkedIn:[https://linkedin.com/in/Rahul R](https://www.linkedin.com/in/rahul-r-b20298238/)
 <!---
 RahulR9809/RahulR9809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
