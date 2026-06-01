@@ -28,7 +28,7 @@ I have experience building production-ready applications across multiple domains
 ### 💼 Experience
 
 - 📱 2.5+ Years Professional Flutter Development Experience
-- 💼 3 Years 5 Months Freelance Development Experience
+- 💼 5 Months Freelance Development Experience
 - 🤝 Worked with startups, businesses, and product teams
 - 🛠️ Delivered production-ready mobile applications
 
@@ -42,4 +42,4 @@ I have experience building production-ready applications across multiple domains
 
 - Email: rahuldev9809@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rahul-r-b20298238/
-- GitHub: https://github.com/RahulR9809
+
