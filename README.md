@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi, I'm Rahul R, a Flutter Developer with 2.5+ years of professional experience and 3 years 5 months of freelance development experience building mobile applications for startups, businesses, and clients.
+Hi, I'm Rahul R, a Flutter Developer with 2.5+ years of professional experience and 5 months of freelance development experience building mobile applications for startups, businesses, and clients.
 
 I specialize in developing scalable, high-performance mobile applications using Flutter and Dart. My experience includes Clean Architecture, Firebase, REST API integration, third-party SDK integrations, state management (BLoC/Cubit), push notifications, authentication systems, payment gateway integration, and real-time applications.
 
